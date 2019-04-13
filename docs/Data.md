@@ -90,4 +90,24 @@ Kentät:
 
 ## Tehtävät
 
-- TBD
+Tehtävät on esitetty samanmuotoisina lohkoina kuin tämän dokumentin alussa on kuvattu.
+
+### Esimerkki
+
+```
+[0] {
+	[num]:1|
+	[type]:self|
+	[task]:Kirjoita samaa tyyliä tavoitellen yksi uusi luku ja sovita se kirjan loppuun.|
+}
+```
+
+### Esimerkin läpikäynti
+
+Hakasulkeissa ensin numerointi - tehtävien indeksointi - nollasta alkava. Tässä esimerkissä ensimmäinen tehtävä ja sen indeksointi alkaa nollasta.
+
+Kentät:
+
+- num: tehtävän numero, ykkösestä alkava numerointi
+- type: tehtävän tyyppi, onko kyseessä yksin vai ryhmätyönä; arvot: self, group
+- task: tehtävän kuvaus vapaana tekstinä
