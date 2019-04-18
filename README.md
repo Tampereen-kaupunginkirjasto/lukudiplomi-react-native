@@ -39,7 +39,7 @@ $ ./node_modules/.bin/react-native android
 
 Jos edellisen komennon yhteydessä esiintyy ongelmia, kokeile seuraavia ratkaisukeinoja asiaan (Stack Overflow ja Github Issue):
 
-- https://stacksoverflow.com/questions/43723958/react-native-android-project-not-found-maybe-run-react-native-android-first#
+- https://stackoverflow.com/questions/43723958/react-native-android-project-not-found-maybe-run-react-native-android-first#
 - https://github.com/facebook/react-native/issues/9312
 
 #### Android
