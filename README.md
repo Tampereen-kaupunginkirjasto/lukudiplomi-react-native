@@ -1,6 +1,6 @@
 # Lukudiplomi
 
-Katso lisätietoja osoitteesta <https://piki.verkkokirjasto.fi/web/arena/lukudiplomi-nuoret/> ja <https://https://piki.verkkokirjasto.fi/web/arena/pirkanmaan_lukudiplomi/>.
+Katso lisätietoja osoitteesta <https://piki.verkkokirjasto.fi/web/arena/lukudiplomi-nuoret/> ja <https://piki.verkkokirjasto.fi/web/arena/pirkanmaan_lukudiplomi/>.
 
 ## Kehitys
 
