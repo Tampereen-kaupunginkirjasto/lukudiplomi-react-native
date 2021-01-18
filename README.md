@@ -1,6 +1,6 @@
 # Lukdiplomin koodi on nyt arkistoitu
 
-2021-01-18: Tämän lukudiplomisovelluksen koodi on nyt arkistoitu (ks. <https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/archiving-repositories/>), koska sovellusta ollan päivitämässä. Lukudiplomisovelluksen päivitysversion koodi tullaan laittamaan myös Githubiin, Tampereen kaupunginkirjaston tilin alaisuuteene, kunhan sovellus saadaan julkaistua.
+2021-01-18: Tämän lukudiplomisovelluksen koodi on nyt arkistoitu (ks. <https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/archiving-repositories/>), koska sovellusta ollaan päivittämässä. Lukudiplomisovelluksen päivitysversion koodi tullaan laittamaan myös Githubiin, Tampereen kaupunginkirjaston tilin alaisuuteen, kunhan sovellus saadaan julkaistua.
 
 # Lukudiplomi
 
